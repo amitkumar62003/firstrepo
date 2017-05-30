@@ -9,6 +9,7 @@ public class second {
    public void show()
    {
 	   System.out.println(a);
+	   System.out.println("msg from master branch");
    }
  }
 
