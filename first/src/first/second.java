@@ -10,6 +10,7 @@ public class second {
    {
 	   System.out.println(a);
 	   System.out.println("msg from master branch");
+	   System.out.println("2 msg from master branch");
    }
  }
 
